@@ -23,7 +23,7 @@
   "license": "ISC",
   "dependencies": {
     "common-tags": "1.8.0",
-    "debug": "4.1.1",
+    "debug": "4.3.5",
     "got": "11.8.6",
     "local-web-server": "^4.2.1",
     "puppeteer": "18.1.0",
